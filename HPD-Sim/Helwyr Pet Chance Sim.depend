@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1503698083 source:z:\codeblocks projects\test\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
